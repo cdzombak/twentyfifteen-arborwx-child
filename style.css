@@ -1,0 +1,21 @@
+/*
+ Theme Name:   Twenty Fifteen ArborWX Child
+ Theme URI:    https://github.com/cdzombak/twentyfifteen-arborwx-child
+ Description:  Custom footer for ArborWX atop twentyfifteen.
+ Author:       Chris Dzombak
+ Author URI:   https://www.dzombak.com
+ Template:     twentyfifteen
+ Version:      1.0.0
+ License:      MIT (c) 2015 Chris Dzombak
+ License URI:  http://opensource.org/licenses/MIT
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  twenty-fifteen-arborwx-child
+*/
+
+.site-info a:last-child {
+    display: none;
+}
+
+.site-info a {
+    border-bottom: 1px solid rgba(51, 51, 51, 0.7);
+}
